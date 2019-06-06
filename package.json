@@ -102,7 +102,7 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
-    "x25x": "git://github.com/SINOVATEblockchain/node-x25x.git#master"
+    "node-x25x": "git://github.com/SINOVATEblockchain/node-x25x.git#master"
   },
   "devDependencies": {
     "bitcore-build-SIN": "git://github.com/SINOVATEblockchain/bitcore-build-SIN#master",

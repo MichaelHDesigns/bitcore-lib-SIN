@@ -1,5 +1,5 @@
 {
-  "name": "hthcore-lib-SIN",
+  "name": "hthcore-lib",
   "version": "0.13.20",
   "description": "A pure and powerful JavaScript BitCore library.",
   "author": "TheTrunk <tessjonesie@gmail.com>",
@@ -90,7 +90,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MichaelHDesigns/hthcore-lib-SIN.git"
+    "url": "https://github.com/MichaelHDesigns/hthcore-lib.git"
   },
   "browser": {
     "request": "browser-request"

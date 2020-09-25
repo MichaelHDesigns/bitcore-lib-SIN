@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-lib-SIN",
+  "name": "hthcore-lib-SIN",
   "version": "0.13.20",
   "description": "A pure and powerful JavaScript BitCore library.",
   "author": "TheTrunk <tessjonesie@gmail.com>",
@@ -73,7 +73,7 @@
     }
   ],
   "keywords": [
-    "SIN",
+    "HTH",
     "transaction",
     "address",
     "p2p",
@@ -90,7 +90,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SINOVATEblockchain/bitcore-lib-SIN.git"
+    "url": "https://github.com/MichaelHDesigns/hthcore-lib-SIN.git"
   },
   "browser": {
     "request": "browser-request"
@@ -102,10 +102,10 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
-    "node-x25x": "git://github.com/SINOVATEblockchain/node-x25x.git#master"
+    "node-x25x": "git://github.com/MichaelHDesigns/node-x25x.git#master"
   },
   "devDependencies": {
-    "bitcore-build-SIN": "git://github.com/SINOVATEblockchain/bitcore-build-SIN#master",
+    "hthcore-build-SIN": "git://github.com/MichaelHDesigns/bitcore-build-SIN#master",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
